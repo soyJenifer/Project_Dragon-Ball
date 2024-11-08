@@ -21,7 +21,6 @@ main {
   align-items: center;
   gap: 10px;
   flex-wrap: wrap;
-  background-color: var(--black);
 }
 
 .card img {
@@ -49,14 +48,22 @@ main {
 .card .card-title {
   font-family: "Bangers", system-ui;
   font-weight: 400;
-  font-style: normal;
+  display: flex;
+  justify-content: center;
+}
+
+.card-text {
+  display: flex;
+  justify-content: center;
+}
+
+span {
+  color: rgb(248, 128, 15);
 }
 
 footer {
   width: 100%;
   display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-direction: column;
+  justify-content: center;
   background-color: rgb(252, 245, 225);
 }

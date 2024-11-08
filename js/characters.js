@@ -20,7 +20,7 @@ async function fetchCharacters() {
 function createCharacterCard(data) {
   console.log(data);
   return `
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 17rem;">
             <img src="${data.image}" class="card-img-top" alt="${data.name}">
             <div class="card-body">
                 <h5 class="card-title">${data.name}</h5>
