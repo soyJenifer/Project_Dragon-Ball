@@ -2,13 +2,10 @@
 Jenifer Moyano Sanromá
 
 ---
->[!CAUTION]
->Por favor lea todos los puntos del README para poder hacer un buen uso de este proyecto. Gracias.
 
 ## 💡 Información
 
-He realizado este proyecto para practicar el consumo de una API externa; en este caso se ha usado la [API de Dragon Ball](https://web.dragonball-api.com).
-
+He realizado este proyecto para practicar el consumo de una API externa; en este caso he usado la [API de Dragon Ball](https://web.dragonball-api.com).
 En esta web podemos darle a los botones del header para cambiar la web. Con un botón podemos ver los **personajes** de Dragon Ball junto con su nombre, raza y un poco más de sus datos; también podemos ver los **planetas** que existen y sus datos dándole a otro botón.
 Se ha consumido la API usando el método ***fetch*** de JavaScript. Además, se ha utilizado **Bootstrap** para añadir estilos adicionales a las tarjetas de los personajes y los planetas.
 
@@ -17,8 +14,9 @@ Se ha consumido la API usando el método ***fetch*** de JavaScript. Además, se 
 
 Este proyecto no necesita instalación, simplemente necesitamos abrir el archivo *index.html* en cualquier navegador.
 
->[!IMPORTANT]
->También es posible ver la web sin tener que clonar este repositorio, ya que el proyecto está desplegado gracias a Github Pages: (https://soyjenifer.github.io/Project_Dragon-Ball/)
+---
+## 🔎 Página Web
+https://soyjenifer.github.io/Project_Dragon-Ball/
 
 ---
 ## 💻 Tecnologías
